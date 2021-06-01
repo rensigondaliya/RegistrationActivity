@@ -1,0 +1,2 @@
+rootProject.name = "Registration Activity"
+include ':app'
